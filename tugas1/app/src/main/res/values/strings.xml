@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">instagram mega</string>
+    <string name="tagpost">7</string>
+    <string name="lblpost">Posts</string>
+    <string name="lblfollowers">Followers</string>
+    <string name="tagfollowers">1.865</string>
+    <string name="tagnameuser">mgpratw_</string>
+    <string name="tagfollowing">840</string>
+    <string name="lblfollowing">Following</string>
+    <string name="btnfollow">Follow</string>
+    <string name="btnmessage">Message</string>
+</resources>
